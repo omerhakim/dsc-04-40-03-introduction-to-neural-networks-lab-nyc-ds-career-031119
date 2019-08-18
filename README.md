@@ -1,5 +1,5 @@
 
-# Introduction to Neural Networks - Lab
+# Introduction to Neural Networks - Lab 1
 
 ## Introduction
 
